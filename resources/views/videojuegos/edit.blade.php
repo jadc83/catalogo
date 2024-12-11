@@ -21,7 +21,7 @@
                 </select>
             </div>
 
-            <div class="mt-4 text-center">
+            <div class="mt-4 text-center justify-center ">
                 <x-primary-button>Actualizar videojuego</x-primary-button>
             </div>
         </form>
